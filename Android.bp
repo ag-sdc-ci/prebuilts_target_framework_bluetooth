@@ -1,0 +1,13 @@
+// Auto-generated Blueprint for packages/modules/Bluetooth (framework extractive)
+// Staged from Extractive APEX package: org.blisslabs.ag.ext.bluetooth
+
+package {
+    default_applicable_licenses: ["prebuilts_target_framework_bluetooth_license"],
+}
+
+license {
+    name: "prebuilts_target_framework_bluetooth_license",
+    visibility: [":__subpackages__"],
+    license_kinds: ["SPDX-license-identifier-Apache-2.0"],
+    license_text: ["NOTICE"],
+}

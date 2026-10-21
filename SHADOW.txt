@@ -1,0 +1,5 @@
+upstream_repo: packages/modules/Bluetooth
+framework_extractive: true
+package: org.blisslabs.ag.ext.bluetooth.framework
+source: https://android.googlesource.com/platform/packages/modules/Bluetooth
+build_type: extractive_apex

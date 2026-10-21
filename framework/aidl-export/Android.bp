@@ -1,0 +1,8 @@
+package {
+    default_applicable_licenses: ["prebuilts_target_framework_bluetooth_license"],
+}
+
+filegroup {
+    name: "framework-bluetooth-updatable-exported-aidl-sources",
+    srcs: ["**/*.aidl"],
+}
